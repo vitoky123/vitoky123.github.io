@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2020/06/17/hello-world/"/>
+      <url>/2020/06/17/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>CRRT操作程序</title>
+      <link href="/2020/06/17/CRRT%E6%93%8D%E4%BD%9C%E7%A8%8B%E5%BA%8F/"/>
+      <url>/2020/06/17/CRRT%E6%93%8D%E4%BD%9C%E7%A8%8B%E5%BA%8F/</url>
+      
+        <content type="html"><![CDATA[<p>操作步骤：<br>上机</p><ol><li>规范洗手和手卫生，戴好口罩</li><li>备齐用物，放置合理，检查一次性物品质量</li><li>评估患者全身状况，穿刺部位皮肤，出凝血，置管情况评估。</li><li>携用物至床旁，核对床号、姓名，向清醒患者解释。</li><li>按照CRRT机操作流程冲洗好管道和滤器，备用。</li><li>生理盐水接三通。</li><li>调整各项治疗参数。</li><li>戴PE手套，将导管外包扎的纱布去除，检查导管出口处有无异常。打开A包，铺治疗巾，将准备好装有肝素首剂的注射器放在恰当位置。</li><li>戴无菌手套，左手持导管，右手用碘伏纱布消毒反复摩擦导管的横截面和螺纹口，然后用酒精再次消毒。</li><li>取下动静脉端肝素帽，酒精棉球反复擦拭导管口至少15次，接5ml注射器回抽导管内的回血及肝素，查看是否有血凝块。</li><li>接20ml注射器回抽，查看管路是否通畅（动脉端注射器回抽，6秒内被充满，大概的血流速为200ml/min），准备好的首剂肝素从静脉端注入或输液侧注入。</li><li>连接导管，开始上机治疗。</li><li>无菌操作更换深静脉敷贴，，用无菌巾包裹导管，妥善固定。</li><li>洗手、记录各种参数。</li><li>观察病人的生命体征，及时处理各种报警。<br>下机</li><li>按医嘱要求结束治疗，准备B包</li><li>连接回输用生理盐水:打开包裹管路的治疗巾，先冲干净动脉端管路，夹闭。</li><li>调节CRRT机的回血量，开始回输血液。</li><li>回血结束后，夹闭静脉端夹子，断开静脉连接。酒精棉球螺旋式消毒动静脉端口，用20ml生理盐水的注射器，分别脉冲式冲洗动静脉导管管腔，再夹闭；如仍有回血，可再次冲洗。</li><li>冲管后，用1ml肝素+3ml生理盐水进行正压封管，肝素用量以导管上标识的封管量为准，封管后夹闭并连接肝素帽。以无菌纱布包裹固定。</li><li>卸载，物品按医疗废物处理，清洁仪器。做好记录。</li></ol>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
